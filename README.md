@@ -17,5 +17,5 @@ A lightweight, fast, and modern web application built with Python for image proc
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/ai-face-analyzer.git](https://github.com/your-username/ai-face-analyzer.git)
+   git clone https://github.com/Hanieh0505/ai-face-analyzer
    cd ai-face-analyzer
